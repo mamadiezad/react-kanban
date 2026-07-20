@@ -130,3 +130,4 @@ The board automatically loads from `localStorage`. Add tasks using the **"+ Add 
 <p align="center">
   <sub>Built with ❤️ by <a href="https://github.com/mamadiezad">Mohammad</a></sub>
 </p>
+<p align="center">ساخته شده با ❤️ توسط <a href="https://github.com/mamadiezad">Mohammad</a> | <a href="https://t.me/llllxyz">📱 تلگرام</a></p>
